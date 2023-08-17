@@ -54,7 +54,7 @@ public class Main {
             }
             System.out.print(arrayThree[i]+", ");
         }
-        System.out.println("four");
+
         //Task 4;
         for (int i = 0; i <= arrayOne.length; i++) {
             if (i == arrayOne.length - 1) {
